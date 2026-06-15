@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Ravi Kumar",
+        "department": "IT",
+        "designation": "Frontend Developer"
+    },
+    {
+        "id": 2,
+        "name": "Priya Sharma",
+        "department": "HR",
+        "designation": "HR Manager"
+    },
+    {
+        "id": 3,
+        "name": "Amit Verma",
+        "department": "Finance",
+        "designation": "Accountant"
+    },
+    {
+        "id": 4,
+        "name": "Sneha Reddy",
+        "department": "IT",
+        "designation": "Backend Developer"
+    },
+    {
+        "id": 5,
+        "name": "Rahul Singh",
+        "department": "Marketing",
+        "designation": "Marketing Executive"
+    },
+    {
+        "id": 6,
+        "name": "Anjali Gupta",
+        "department": "HR",
+        "designation": "Recruiter"
+    },
+    {
+        "id": 7,
+        "name": "Kiran Patel",
+        "department": "Finance",
+        "designation": "Financial Analyst"
+    },
+    {
+        "id": 8,
+        "name": "Meera Nair",
+        "department": "Marketing",
+        "designation": "SEO Specialist"
+    },
+    {
+        "id": 9,
+        "name": "Vikram Rao",
+        "department": "Sales",
+        "designation": "Sales Manager"
+    },
+    {
+        "id": 10,
+        "name": "Pooja Rani",
+        "department": "Sales",
+        "designation": "Sales Executive"
+    }
+]
